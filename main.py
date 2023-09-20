@@ -7,3 +7,4 @@ def repeat(some):
 repeat('i love you')
 repeat('My')
 repeat('Sweetee')
+repeat('bear')
