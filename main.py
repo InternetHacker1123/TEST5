@@ -5,3 +5,4 @@ def repeat(some):
         print(some)
 
 repeat('i love you')
+repeat('My')
